@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Montserrat&display=swap');
+
+/* color variavles */
+:root{
+   --ptext:#3d2514;
+   --button:#cc1818;
+   --yellow:#ffc045;
+   --alfa:'Alfa Slab One', cursive;
+   --bebas:'Bebas Neue', cursive;
+   --mont:'Montserrat', sans-serif;
+}
+
+
